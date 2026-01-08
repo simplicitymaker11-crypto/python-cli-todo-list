@@ -49,7 +49,7 @@ This project was built after completing Python fundamentals and demonstrates pra
 2. Clone the repository
 
    ```
-   git clone https://github.com/your-username/to-do-list.git
+   git clone https://github.com/simplicitymaker11-crypto/python-cli-todo-list.git
    ```
 
 3. Navigate to project folder
@@ -108,3 +108,4 @@ This project was built after completing Python fundamentals and demonstrates pra
 ---
 
 ⭐ *If you like this project, don’t forget to star the repository!*
+
