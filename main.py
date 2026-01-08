@@ -218,5 +218,6 @@ while True :
     input("__--Press Enter to continue--__ ")
  except ValueError:
     clear_screen()
-    print("\nPlease Enter numbers from 1-5")
+    print("\nPlease Enter numbers between 1-5")
     input("__--Press Enter to continue--__ ")
+
